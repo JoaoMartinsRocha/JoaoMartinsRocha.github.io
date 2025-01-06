@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 const Home = () => {
     return (
         <div> 
@@ -135,7 +136,7 @@ const Home = () => {
           {/* To make this form functional, sign up at*/}
           {/* https://startbootstrap.com/solution/contact-forms*/}
           {/* to get an API token!*/}
-          <form id="contactForm" data-sb-form-api-token="API_TOKEN">
+          <form id="contactForm" data-sb-form-api-token={process.env.REACT_APP_API_TOKEN}>
             {/* Name input*/}
             <div className="form-floating mb-3">
               <input className="form-control" id="name" type="text" placeholder="Enter your name..." data-sb-validations="required" />
