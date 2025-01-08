@@ -163,7 +163,7 @@ const Home = () => {
                 {/* Portfolio Modal - Image*/}
                 <img className="img-fluid rounded mb-5" src="assets/img/portfolio/NewsLogo.jpg" alt="..." />
                 {/* Portfolio Modal - Text*/}
-                <p className="mb-4"> Developed a geo-location-based news aggregation website, which would query two different APIs to determine someone’s city/state and query a third to aggregate more than 30 current news sources from that location. The project also included Google authentication and would store the recent choices of users. </p>
+                <p className="mb-4"> Using a React front-end Python flask backend and MongoDB, developed a geo-location-based news aggregation website, which would query two different APIs to determine someone’s city/state and query a third to aggregate more than 30 current news sources from that location. The project also included Google authentication and would store the recent choices of users.</p>
                 <a href="https://github.com/kpwrennbu/411_Project">Github Repo</a>
                 <br /> <br />
                 <button className="btn btn-primary" data-bs-dismiss="modal">
@@ -187,7 +187,7 @@ const Home = () => {
             <div className="row justify-content-center">
               <div className="col-lg-8">
                 {/* Portfolio Modal - Title*/}
-                <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0"> .NET Authentication controller </h2>
+                <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0"> .NET Authentication controller servicing for DREA </h2>
                 {/* Icon Divider*/}
                 <div className="divider-custom">
                   <div className="divider-custom-line" />
@@ -197,7 +197,8 @@ const Home = () => {
                 {/* Portfolio Modal - Image*/}
                 <img className="img-fluid rounded mb-5" src="assets/img/portfolio/NETLogo.png" alt="..." />
                 {/* Portfolio Modal - Text*/}
-                <p className="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                <p className="mb-4"> While working as Project Manager in the Tech track of Tamid Consulting group, our track serviced and provided feedback on the client company's authentication controller.
+                Engineered more than 10 extensive unit tests to ensure intended functionality using well-documented testing methods. The .NET framework and Model View Controller design pattern were in use. The project repository was kept private by the client company DREA.</p>
                 <button className="btn btn-primary" data-bs-dismiss="modal">
                   <i className="fas fa-xmark fa-fw" />
                   Close Window
@@ -219,7 +220,7 @@ const Home = () => {
             <div className="row justify-content-center">
               <div className="col-lg-8">
                 {/* Portfolio Modal - Title*/}
-                <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0">Google Classroom API data collection</h2>
+                <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0">Google Classroom API data collection for WeLearn</h2>
                 {/* Icon Divider*/}
                 <div className="divider-custom">
                   <div className="divider-custom-line" />
@@ -229,7 +230,8 @@ const Home = () => {
                 {/* Portfolio Modal - Image*/}
                 <img className="img-fluid rounded mb-5" src="assets/img/portfolio/GCLogo.png" alt="..." />
                 {/* Portfolio Modal - Text*/}
-                <p className="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                <p className="mb-4">While working as a tech consultant in the Tech track of Tamid Consulting group, developed a project for a client company WeLearn that leverages the Google Classroom API to retrieve useful data on students for analysis by teachers.
+                Data on more than 50 students could be retrieved at a time and condensed into an Excel sheet using Python scripts. The project repository was kept private by the client company.</p>
                 <button className="btn btn-primary" data-bs-dismiss="modal">
                   <i className="fas fa-xmark fa-fw" />
                   Close Window
@@ -261,7 +263,9 @@ const Home = () => {
                 {/* Portfolio Modal - Image*/}
                 <img className="img-fluid rounded mb-5" src="assets/img/portfolio/GPTLogo.png" alt="..." />
                 {/* Portfolio Modal - Text*/}
-                <p className="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                <p className="mb-4">As a research assistant for the department of Economics, serviced and modified web scraping data pipeline that gathered information on more than 130,000 legislators by using both the Google API and Beautiful Soup API in tandem.
+Also, developed Python code intended for leveraging ChatGPT API to summarize the scraped text information into useful datasets that can be analyzed for the research project.
+Later employed the Student Computing Cluster and Python Multithreading to efficiently and cost-effectively execute the pipeline for batches of 10,000 candidates. Generated 3 useful datasets for the professor's research project.</p>
                 <button className="btn btn-primary" data-bs-dismiss="modal">
                   <i className="fas fa-xmark fa-fw" />
                   Close Window

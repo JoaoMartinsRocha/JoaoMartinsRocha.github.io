@@ -26,7 +26,7 @@ const footer = () => {
                 </div>
                 {/* Footer About Text*/}
                 <div className="col-lg-4">
-                    <h4 className="text-uppercase mb-4">About Freelancer</h4>
+                    <h4 className="text-uppercase mb-4">Bootstrap theme used: Freelance</h4>
                     <p className="lead mb-0">
                     Freelance is a free to use, MIT licensed Bootstrap theme created by
                     <a href="http://startbootstrap.com">Start Bootstrap</a>
