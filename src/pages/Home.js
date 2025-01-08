@@ -153,7 +153,7 @@ const Home = () => {
             <div className="row justify-content-center">
               <div className="col-lg-8">
                 {/* Portfolio Modal - Title*/}
-                <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0">Log Cabin</h2>
+                <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0">News aggregator website</h2>
                 {/* Icon Divider*/}
                 <div className="divider-custom">
                   <div className="divider-custom-line" />
@@ -161,9 +161,11 @@ const Home = () => {
                   <div className="divider-custom-line" />
                 </div>
                 {/* Portfolio Modal - Image*/}
-                <img className="img-fluid rounded mb-5" src="assets/img/portfolio/cabin.png" alt="..." />
+                <img className="img-fluid rounded mb-5" src="assets/img/portfolio/NewsLogo.jpg" alt="..." />
                 {/* Portfolio Modal - Text*/}
-                <p className="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                <p className="mb-4"> Developed a geo-location-based news aggregation website, which would query two different APIs to determine someone’s city/state and query a third to aggregate more than 30 current news sources from that location. The project also included Google authentication and would store the recent choices of users. </p>
+                <a href="https://github.com/kpwrennbu/411_Project">Github Repo</a>
+                <br /> <br />
                 <button className="btn btn-primary" data-bs-dismiss="modal">
                   <i className="fas fa-xmark fa-fw" />
                   Close Window
@@ -185,7 +187,7 @@ const Home = () => {
             <div className="row justify-content-center">
               <div className="col-lg-8">
                 {/* Portfolio Modal - Title*/}
-                <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0">Tasty Cake</h2>
+                <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0"> .NET Authentication controller </h2>
                 {/* Icon Divider*/}
                 <div className="divider-custom">
                   <div className="divider-custom-line" />
@@ -193,7 +195,7 @@ const Home = () => {
                   <div className="divider-custom-line" />
                 </div>
                 {/* Portfolio Modal - Image*/}
-                <img className="img-fluid rounded mb-5" src="assets/img/portfolio/cake.png" alt="..." />
+                <img className="img-fluid rounded mb-5" src="assets/img/portfolio/NETLogo.png" alt="..." />
                 {/* Portfolio Modal - Text*/}
                 <p className="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                 <button className="btn btn-primary" data-bs-dismiss="modal">
@@ -217,7 +219,7 @@ const Home = () => {
             <div className="row justify-content-center">
               <div className="col-lg-8">
                 {/* Portfolio Modal - Title*/}
-                <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0">Circus Tent</h2>
+                <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0">Google Classroom API data collection</h2>
                 {/* Icon Divider*/}
                 <div className="divider-custom">
                   <div className="divider-custom-line" />
@@ -225,7 +227,7 @@ const Home = () => {
                   <div className="divider-custom-line" />
                 </div>
                 {/* Portfolio Modal - Image*/}
-                <img className="img-fluid rounded mb-5" src="assets/img/portfolio/circus.png" alt="..." />
+                <img className="img-fluid rounded mb-5" src="assets/img/portfolio/GCLogo.png" alt="..." />
                 {/* Portfolio Modal - Text*/}
                 <p className="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                 <button className="btn btn-primary" data-bs-dismiss="modal">
@@ -249,7 +251,7 @@ const Home = () => {
             <div className="row justify-content-center">
               <div className="col-lg-8">
                 {/* Portfolio Modal - Title*/}
-                <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0">Controller</h2>
+                <h2 className="portfolio-modal-title text-secondary text-uppercase mb-0"> Web Scarping data pipeline</h2>
                 {/* Icon Divider*/}
                 <div className="divider-custom">
                   <div className="divider-custom-line" />
@@ -257,7 +259,7 @@ const Home = () => {
                   <div className="divider-custom-line" />
                 </div>
                 {/* Portfolio Modal - Image*/}
-                <img className="img-fluid rounded mb-5" src="assets/img/portfolio/game.png" alt="..." />
+                <img className="img-fluid rounded mb-5" src="assets/img/portfolio/GPTLogo.png" alt="..." />
                 {/* Portfolio Modal - Text*/}
                 <p className="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                 <button className="btn btn-primary" data-bs-dismiss="modal">
