@@ -9,7 +9,7 @@ const Home = () => {
       {/* Masthead Avatar Image*/}
       <img className="masthead-avatar mb-5" src="assets/img/avataaars.svg" alt="..." />
       {/* Masthead Heading*/}
-      <h1 className="masthead-heading text-uppercase mb-0">Start Bootstrap</h1>
+      <h1 className="masthead-heading text-uppercase mb-0">João Pedro Rocha</h1>
       {/* Icon Divider*/}
       <div className="divider-custom divider-light">
         <div className="divider-custom-line" />
@@ -17,7 +17,7 @@ const Home = () => {
         <div className="divider-custom-line" />
       </div>
       {/* Masthead Subheading*/}
-      <p className="masthead-subheading font-weight-light mb-0">Graphic Artist - Web Designer - Illustrator</p>
+      <p className="masthead-subheading font-weight-light mb-0">Aspiring Software Engineer & Tech Consultant</p>
     </div>
   </header>
   {/* Portfolio Section*/}
@@ -94,7 +94,7 @@ const Home = () => {
   <section className="page-section bg-primary text-white mb-0" id="about">
     <div className="container">
       {/* About Section Heading*/}
-      <h2 className="page-section-heading text-center text-uppercase text-white">About</h2>
+      <h2 className="page-section-heading text-center text-uppercase text-white">About Me</h2>
       {/* Icon Divider*/}
       <div className="divider-custom divider-light">
         <div className="divider-custom-line" />
@@ -103,15 +103,8 @@ const Home = () => {
       </div>
       {/* About Section Content*/}
       <div className="row">
-        <div className="col-lg-4 ms-auto"><p className="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p></div>
-        <div className="col-lg-4 me-auto"><p className="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p></div>
-      </div>
-      {/* About Section Button*/}
-      <div className="text-center mt-4">
-        <a className="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/">
-          <i className="fas fa-download me-2" />
-          Free Download!
-        </a>
+        <div className="col-lg-4 ms-auto"><p className="lead">My name is João Pedro and I am pursuing a degree in Computer Science and Economics at Boston University. I expect to graduate in May 2025. </p></div>
+        <div className="col-lg-4 me-auto"><p className="lead">No matter the field, I aim to continuously grow as a professional and an individual. I look forward to any opportunities that will allow me to improve the skillset I have acquired through my coursework and professional experiences.</p></div>
       </div>
     </div>
   </section>
