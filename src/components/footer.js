@@ -11,18 +11,18 @@ const footer = () => {
                 <div className="col-lg-4 mb-5 mb-lg-0">
                     <h4 className="text-uppercase mb-4">Location</h4>
                     <p className="lead mb-0">
-                    2215 John Daniel Drive
+                    Commonwealth Ave, 
                     <br />
-                    Clark, MO 65243
+                    Boston MA 02215, 
+                    <br />
+                    United States             
                     </p>
                 </div>
                 {/* Footer Social Icons*/}
                 <div className="col-lg-4 mb-5 mb-lg-0">
                     <h4 className="text-uppercase mb-4">Around the Web</h4>
-                    <a className="btn btn-outline-light btn-social mx-1" href="#!"><i className="fab fa-fw fa-facebook-f" /></a>
-                    <a className="btn btn-outline-light btn-social mx-1" href="#!"><i className="fab fa-fw fa-twitter" /></a>
-                    <a className="btn btn-outline-light btn-social mx-1" href="#!"><i className="fab fa-fw fa-linkedin-in" /></a>
-                    <a className="btn btn-outline-light btn-social mx-1" href="#!"><i className="fab fa-fw fa-dribbble" /></a>
+                    <a className="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/joao-pedro-facanha"><i className="fab fa-fw fa-linkedin-in" /></a>
+                    <a className="btn btn-outline-light btn-social mx-1" href="https://github.com/JoaoMartinsRocha"><i className="fab fa-fw fa-github" /></a>
                 </div>
                 {/* Footer About Text*/}
                 <div className="col-lg-4">
