@@ -134,13 +134,13 @@ const Home = () => {
         <div className="d-flex flex-column align-items-center">
           <div className="icon-contact mb-3"><i className="fas fa-mobile-alt" /></div>
           <div className="text-muted">Phone</div>
-          <div className="lead font-weight-bold">(555) 555-5555</div>
+          <div className="lead font-weight-bold">(305) 924-4513</div>
         </div>
       </div>
       <div className="col-lg-4">
         <div className="d-flex flex-column align-items-center">
           <div className="icon-contact mb-3"><i className="far fa-envelope" /></div>
-          <div className="text-muted">Email</div><a className="lead font-weight-bold" href="mailto:name@example.com">name@example.com</a>
+          <div className="text-muted">Email</div><a className="lead font-weight-bold" href="mailto:jprocha@bu.edu">jprocha@bu.edu</a>
         </div>
       </div>
     </div>
